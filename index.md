@@ -1,6 +1,10 @@
+Welcome to my site. Here you will find console commands for the chrome dino game which you get when you are offline. You can also find this by typing chrome://dino in your browser
+
+
 Speed = Runner.instance_.setSpeed(1000)
 
-Immortality = 1) var original = Runner.prototype.gameOver      2) Runner.prototype.gameOver = function(){}
+Immortality = Step 1) var original = Runner.prototype.gameOver     Step 2) Runner.prototype.gameOver = function(){}
+#note: to get a valid score you must use the stop immortallity command beneath.
 
 Stop immortallity = Runner.prototype.gameOver = original
 
