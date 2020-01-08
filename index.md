@@ -13,8 +13,11 @@ Jump height = Runner.instance_.tRex.setJumpVelocity(10)
 Distance set = Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT
 
 
-https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/295-2954338_sans-blue-eye-sans-face-pixel-art.png
 
-
+Randoms:
 
 https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/dino2.png
+
+Realistic colours:
+
+https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/dinoreal.png
