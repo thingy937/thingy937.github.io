@@ -17,4 +17,4 @@ https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/295-29543
 
 
 
-https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/dino.png
+https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/dino2.png
