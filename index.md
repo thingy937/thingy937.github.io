@@ -12,12 +12,6 @@ Jump height = Runner.instance_.tRex.setJumpVelocity(10)
 
 Distance set = Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT
 
+full colour version: #Note: instructions coming soon
 
-
-Randoms:
-
-https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/dino2.png
-
-Realistic colours:
-
-https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/dinoreal.png
+https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/Yeetydinopic2.png
