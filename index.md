@@ -14,4 +14,4 @@ Distance set = Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceM
 
 full colour version: #Note: instructions coming soon
 
-https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/Beta4.png
+https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/beta6.png
