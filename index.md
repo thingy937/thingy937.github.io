@@ -23,3 +23,51 @@ https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/beta6.png
         <span class="onoffswitch-switch"></span>
     </label>
 </div>
+
+
+.onoffswitch {
+    position: relative; width: 119px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #000000; border-radius: 50px;
+}
+.onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 41px; padding: 0; line-height: 41px;
+    font-size: 40px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    box-sizing: border-box;
+}
+.onoffswitch-inner:before {
+    content: "on";
+    padding-left: 10px;
+    background-color: #4D4D4D; color: #000000;
+}
+.onoffswitch-inner:after {
+    content: "off";
+    padding-right: 10px;
+    background-color: #4D4D4D; color: #000000;
+    text-align: right;
+}
+.onoffswitch-switch {
+    display: block; width: 20px; margin: 10.5px;
+    background: #ED1313;
+    position: absolute; top: 0; bottom: 0;
+    right: 74px;
+    border: 2px solid #000000; border-radius: 50px;
+    transition: all 0.3s ease-in 0s; 
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px; 
+    background-color: #26CC50; 
+}
