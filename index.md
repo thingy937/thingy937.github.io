@@ -15,3 +15,11 @@ Distance set = Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceM
 full colour version: #Note: instructions coming soon
 
 https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/beta6.png
+
+<div class="onoffswitch">
+    <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked>
+    <label class="onoffswitch-label" for="myonoffswitch">
+        <span class="onoffswitch-inner"></span>
+        <span class="onoffswitch-switch"></span>
+    </label>
+</div>
