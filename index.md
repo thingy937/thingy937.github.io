@@ -24,50 +24,14 @@ https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/beta6.png
     </label>
 </div>
 
-
-.onoffswitch {
-    position: relative; width: 119px;
-    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
-}
-.onoffswitch-checkbox {
-    display: none;
-}
-.onoffswitch-label {
-    display: block; overflow: hidden; cursor: pointer;
-    border: 2px solid #000000; border-radius: 50px;
-}
-.onoffswitch-inner {
-    display: block; width: 200%; margin-left: -100%;
-    transition: margin 0.3s ease-in 0s;
-}
-.onoffswitch-inner:before, .onoffswitch-inner:after {
-    display: block; float: left; width: 50%; height: 41px; padding: 0; line-height: 41px;
-    font-size: 40px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
-    box-sizing: border-box;
-}
-.onoffswitch-inner:before {
-    content: "on";
-    padding-left: 10px;
-    background-color: #4D4D4D; color: #000000;
-}
-.onoffswitch-inner:after {
-    content: "off";
-    padding-right: 10px;
-    background-color: #4D4D4D; color: #000000;
-    text-align: right;
-}
-.onoffswitch-switch {
-    display: block; width: 20px; margin: 10.5px;
-    background: #ED1313;
-    position: absolute; top: 0; bottom: 0;
-    right: 74px;
-    border: 2px solid #000000; border-radius: 50px;
-    transition: all 0.3s ease-in 0s; 
-}
-.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
-    margin-left: 0;
-}
-.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
-    right: 0px; 
-    background-color: #26CC50; 
-}
+<p>:</p>
+<!-- #######  DON'T GO LOOKING WHERE YOUR NOT MEANT TO. #########-->
+<h1 style="color: #5e9ca0; text-align: center;"><span style="color: #000000;"><strong><span style="text-decoration: underline;">Welcome</span></strong></span></h1>
+<p><span style="color: #000000;"><strong>Note: <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">this is work in progress and images to help will come soon.</span></span></strong></span></p>
+<h2 style="color: #2e6c80; text-align: center;"><span style="color: #000000;"><strong><span style="text-decoration: underline;">Hacking the dino game.</span></strong></span></h2>
+<p style="text-align: center;">Hacking the chrome dino game is actually surprisingly easy once you know what code to put in.</p>
+<p style="text-align: center;">To find the dino game you either need to have lost an internet connection or of gone to chrome://dino (I recommend the second option by far). Once on the page you can right click anywhere on the page or press F12 to bring up the inspect element page. Once there you select the console tab at the top of the page. In this is where we are going to input our code to hack the game.</p>
+<p style="text-align: center;">To change the speed copy and paste this in:&nbsp; &nbsp;Runner.instance_.setSpeed(1000)</p>
+<p style="text-align: center;"><strong><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">You can change the value in the brackets to fine tune the settings.</span></span></strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
