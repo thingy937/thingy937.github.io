@@ -1,4 +1,4 @@
-<p>:</p>
+<p></p>
 <!-- #######  DON'T GO LOOKING WHERE YOUR NOT MEANT TO. #########-->
 <h1 style="color: #5e9ca0; text-align: center;"><span style="color: #000000;"><strong><span style="text-decoration: underline;">Welcome</span></strong></span></h1>
 <p><span style="color: #000000;"><strong><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">This is work in progress and images to help will come soon.</span></span></strong></span></p>
