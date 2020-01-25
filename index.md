@@ -7,12 +7,12 @@
 <p style="text-align: center;">To find the dino game you either need to have lost an internet connection or of gone to chrome://dino (I recommend the second option by far). Once on the page you can right click anywhere on the page or press F12 to bring up the inspect element page. Once there you select the console tab at the top of the page. In this is where we are going to input our code to hack the game. You will find the code beneath.</p>
 <p style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">You can change the value in the brackets to fine tune the settings. </span></span></p>
 <p style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">(10 is the original value)</span></span></p>
-<p>&nbsp;To change the speed copy and paste this in:&nbsp; &nbsp;Runner.instance_.setSpeed(1000)</p>
+<p>&nbsp;To change the speed copy and paste this in:&nbsp; &nbsp;Runner.instance_.setSpeed(10)</p>
 <p style="text-align: center;">To change the jump height copy and paste this in:Jump height = Runner.instance_.tRex.setJumpVelocity(10)</p>
-<p style="text-align: center;">To set the game to a particular score copy and paste this in:&nbsp;Runner.instance_.distanceRan = (12345) / Runner.instance_.distanceMeter.config.COEFFICIENT]</p>
-<p style="text-align: center;">Becoming immortal requires 2 steps if you want to be able to switch back to being mortal afterwards to set your score. Step 1:&nbsp;var original = Runner.prototype.gameOver&nbsp; &nbsp;(This stores the original code in another variable for switching back to later.)&nbsp; &nbsp;</p>
+<p style="text-align: center;">To set the game to a particular score copy and paste this in:&nbsp;Runner.instance_.distanceRan = (1000) / Runner.instance_.distanceMeter.config.COEFFICIENT]</p>
+<p style="text-align: center;">Becoming immortal requires 2 steps if you want to be able to switch back to being mortal afterwards to set your score. Step 1:&nbsp;var rgnl = Runner.prototype.gameOver&nbsp; &nbsp;(This stores the original code in another variable for switching back to later.)&nbsp; &nbsp;</p>
 <p style="text-align: center;">Step 2:&nbsp;Runner.prototype.gameOver = function(){} This removes functionality from the collision mechanic.</p>
-<p style="text-align: center;">Removing the immortality to set the score is more simple:&nbsp;Runner.prototype.gameOver = original</p>
+<p style="text-align: center;">Removing the immortality to set the score is more simple:&nbsp;Runner.prototype.gameOver = rgnl</p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Custom Graphics.</strong></span></h2>
