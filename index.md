@@ -31,6 +31,6 @@
 <p style="text-align: left;">&nbsp;8) Well there isn't an eighth step because now it should all be done. If there is anything that went wrong you can watch the tutorial video which I will link below soon. To exit the inspect elements tab you can either press F12 or the cross in the top right corner.</p>
 <p style="text-align: left;">&nbsp;</p>
 <p style="text-align: left;">&nbsp;</p>
-<p style="text-align: left;">This is the end of the turtorial. Thanks for reading since dependent on what use this gets i might make more tutorials in the future. You are a fat fuck mate.</p>
+<p style="text-align: left;">This is the end of the turtorial. Thanks for reading since dependent on what use this gets i might make more tutorials in the future.</p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
