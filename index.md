@@ -19,14 +19,14 @@
 <p style="text-align: center;">My custom graphics for the game aren't quite complete yet, but basically inputting this image into the game code will put the game into full colour which I prepared myself. (I will also in the future add the base canvas of the game which you can edit with a full list of instructions to create your own custom graphics).</p>
 <p style="text-align: center;">Here are the instuctions:</p>
 <p style="text-align: left;">1) Right click the imgae below and select copy image address.</p>
-<p style="text-align: left;"><img src="https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/beta6.png" /></p>
+<p style="text-align: left;"><img src="https://github.com/thingy937/dino-game-test-stuff/blob/master/DinoGameCustom.png?raw=true" /></p>
 <p style="text-align: left;">&nbsp;2) Navigate back to the elements tab of the inspect element page.&nbsp;</p>
 <p style="text-align: left;">3) When looking at the elements you will see a drop down named "offline-resources". Select this.</p>
 <p style="text-align: left;">4) You will see two image id's. Right click the one labeled "offline-resources-1x" and select edit as html.</p>
 <p style="text-align: left;">5) Now erase all of the bit circled in the image below (be careful not to get rid of the speech marks since it wont work if you do.)</p>
 <p style="text-align: left;"><img src="https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/dino%20game%20custonm%20graphics%20help%201.PNG" alt="" width="534" height="142" /></p>
 <p style="text-align: left;">6) In the newly made space paste the image address that you copied earlier.</p>
-<p style="text-align: left;">7) The last step is changing the background colour. Nearer to the bottom of the elements tab you will see this area which I have highlited in the picture below. All you need to do is click on the white box and then click on the background sky of the cactus and the background will instantly change to be the correct colour. To save it as that colour just click off it.</p>
+<p style="text-align: left;">7) The last step is changing the background colour. Nearer to the bottom of the elements tab you will see this area which I have highlited in the picture below. All you need to do is click on the white box and find a blue that you want to use.</p>
 <p style="text-align: left;"><img src="https://github.com/thingy937/thingy937.github.io/blob/master/dino%20game%20custonm%20graphics%20help%202.PNG?raw=true" alt="" width="527" height="270" /></p>
 <p style="text-align: left;">&nbsp;8) Well there isn't an eighth step because now it should all be done. If there is anything that went wrong you can watch the tutorial video which I will link below soon. To exit the inspect elements tab you can either press F12 or the cross in the top right corner.</p>
 <p style="text-align: left;">&nbsp;</p>
