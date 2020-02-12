@@ -35,13 +35,6 @@
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>HTML Links</h2>
-<p>HTML links are defined with the a tag:</p>
-
 <a href="thingy937.github.io">Click here</a>
 
 </body>
