@@ -37,6 +37,3 @@
 
 <a href="thingy937.github.io">Click here</a>
 
-</body>
-</html>
-
