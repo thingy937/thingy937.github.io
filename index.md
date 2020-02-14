@@ -1,5 +1,7 @@
 <p>&nbsp;</p>
 <!-- #######  DON'T GO LOOKING WHERE YOUR NOT MEANT TO. #########-->
+<a href="https://thingy937.github.io/Hacking-the-dino-game/">Click here</a>
+
 <h1 style="color: #5e9ca0; text-align: center;"><span style="color: #993366; background-color: #ffffff;"><strong><span style="text-decoration: underline;">Welcome</span></strong></span></h1>
 <p><span style="color: #000000;"><strong><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">This is work in progress.</span></span></strong></span></p>
 <h2 style="color: #2e6c80; text-align: center;"><span style="color: #0000ff;"><strong><span style="text-decoration: underline;">Hacking the dino game.</span></strong></span></h2>
@@ -35,4 +37,4 @@
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 
-<a href="thingy937.github.io">Click here</a>
+<a href="https://thingy937.github.io/Hacking-the-dino-game/">Click here</a>
