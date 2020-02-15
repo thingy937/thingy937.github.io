@@ -1,40 +1,187 @@
 <p>&nbsp;</p>
 <!-- #######  DON'T GO LOOKING WHERE YOUR NOT MEANT TO. #########-->
-<a href="https://thingy937.github.io/Hacking-the-dino-game/">Click here</a>
+<h1 style="text-align: center;"><span style="color: #000080; background-color: #ffffff;"><strong><span style="text-decoration: underline;">Welcome</span></strong></span></h1>
+<p><span style="color: #ff0000;"><strong><span style="text-decoration: underline;">(This is work in progress)</span></strong></span></p>
+<p style="text-align: center;"><span style="color: #000000;">Welcome to my site here I will put games, hacking tutorials and more in the future.</span></p>
+<h2 id="h3sk6nxduzi1no0v2o1n3sogogcw036" style="text-align: center;"><span style="color: #993300;"><strong><span style="text-decoration: underline;">How to hack games</span></strong></span></h2>
+<p style="text-align: center;">Here you will find some useful guides for hacking games.</p>
+<ul>
+<li><a href="https://thingy937.github.io/Hacking-the-dino-game/">Hacking the dino game.</a></li>
+<li>Terraria (soon to come)</li>
+<li>Cool math games (also soon to come)</li>
+</ul>
+<p style="text-align: center;">&nbsp;</p>
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #993300;"><strong>Games</strong></span></h2>
+<p style="text-align: center;"><span style="color: #000000;">Well there is more to come but for now, heres a game of snake:</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p>&nbsp;</p>
+<p><canvas id="game" width="400" height="400"></canvas></p>
 
-<h1 style="color: #5e9ca0; text-align: center;"><span style="color: #993366; background-color: #ffffff;"><strong><span style="text-decoration: underline;">Welcome</span></strong></span></h1>
-<p><span style="color: #000000;"><strong><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">This is work in progress.</span></span></strong></span></p>
-<h2 style="color: #2e6c80; text-align: center;"><span style="color: #0000ff;"><strong><span style="text-decoration: underline;">Hacking the dino game.</span></strong></span></h2>
-<p style="text-align: center;">Hacking the chrome dino game is actually surprisingly easy once you know what code to put in.</p>
-<p style="text-align: center;">To find the dino game you either need to have lost an internet connection or of gone to chrome://dino (I recommend the second option by far). Once on the page you can right click anywhere on the page or press F12 to bring up the inspect element page. Once there you select the console tab at the top of the page. In this is where we are going to input our code to hack the game. You will find the code beneath.</p>
-<p style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">You can change the value in the brackets to fine tune the settings. </span></span></p>
-<p style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">(10 is the original value)</span></span></p>
-<p>&nbsp;To change the speed copy and paste this in:&nbsp; &nbsp;Runner.instance_.setSpeed(10)</p>
-<p style="text-align: center;">To change the jump height copy and paste this in:Jump height = Runner.instance_.tRex.setJumpVelocity(10)</p>
-<p style="text-align: center;">To set the game to a particular score copy and paste this in:&nbsp;Runner.instance_.distanceRan = (1000) / Runner.instance_.distanceMeter.config.COEFFICIENT]</p>
-<p style="text-align: center;">Becoming immortal requires 2 steps if you want to be able to switch back to being mortal afterwards to set your score. Step 1:&nbsp;var rgnl = Runner.prototype.gameOver&nbsp; &nbsp;(This stores the original code in another variable for switching back to later.)&nbsp; &nbsp;</p>
-<p style="text-align: center;">Step 2:&nbsp;Runner.prototype.gameOver = function(){} This removes functionality from the collision mechanic.</p>
-<p style="text-align: center;">Removing the immortality to set the score is more simple:&nbsp;Runner.prototype.gameOver = rgnl</p>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;">&nbsp;</p>
-<h2 style="text-align: center;"><span style="text-decoration: underline; color: #0000ff;"><strong>Custom Graphics.</strong></span></h2>
-<p style="text-align: center;">My custom graphics for the game aren't quite complete yet, but basically inputting this image into the game code will put the game into full colour which I prepared myself. (I will also in the future add the base canvas of the game which you can edit with a full list of instructions to create your own custom graphics).</p>
-<p style="text-align: center;">Here are the instuctions:</p>
-<p style="text-align: left;">1) Right click the imgae below and select copy image address.</p>
-<p style="text-align: left;"><img src="https://github.com/thingy937/dino-game-test-stuff/blob/master/DinoGameCustom.png?raw=true" /></p>
-<p style="text-align: left;">&nbsp;2) Navigate back to the elements tab of the inspect element page.&nbsp;</p>
-<p style="text-align: left;">3) When looking at the elements you will see a drop down named "offline-resources". Select this.</p>
-<p style="text-align: left;">4) You will see two image id's. Right click the one labeled "offline-resources-1x" and select edit as html.</p>
-<p style="text-align: left;">5) Now erase all of the bit circled in the image below (be careful not to get rid of the speech marks since it wont work if you do.)</p>
-<p style="text-align: left;"><img src="https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/dino%20game%20custonm%20graphics%20help%201.PNG" alt="" width="534" height="142" /></p>
-<p style="text-align: left;">6) In the newly made space paste the image address that you copied earlier.</p>
-<p style="text-align: left;">7) The last step is changing the background colour. Nearer to the bottom of the elements tab you will see this area which I have highlited in the picture below. All you need to do is click on the white box and find a blue that you want to use.</p>
-<p style="text-align: left;"><img src="https://github.com/thingy937/thingy937.github.io/blob/master/dino%20game%20custonm%20graphics%20help%202.PNG?raw=true" alt="" width="527" height="270" /></p>
-<p style="text-align: left;">&nbsp;8) Well there isn't an eighth step because now it should all be done. If there is anything that went wrong you can watch the tutorial video which I will link below soon. To exit the inspect elements tab you can either press F12 or the cross in the top right corner.</p>
-<p style="text-align: left;">&nbsp;</p>
-<p style="text-align: left;">&nbsp;</p>
-<p style="text-align: left;">This is the end of the turtorial. Thanks for reading since dependent on what use this gets i might make more tutorials in the future.</p>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
 
-<a href="https://thingy937.github.io/Hacking-the-dino-game/">Click here</a>
+  body {
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  canvas {
+    border: 1px solid white;
+  }
+  </style>
+</head>
+<body>
+<canvas width="400" height="400" id="game"></canvas>
+<script>
+var canvas = document.getElementById('game');
+var context = canvas.getContext('2d');
+
+var grid = 16;
+var count = 0;
+  
+var snake = {
+  x: 160,
+  y: 160,
+  
+  // snake velocity. moves one grid length every frame in either the x or y direction
+  dx: grid,
+  dy: 0,
+  
+  // keep track of all grids the snake body occupies
+  cells: [],
+  
+  // length of the snake. grows when eating an apple
+  maxCells: 4
+};
+var apple = {
+  x: 320,
+  y: 320
+};
+
+// get random whole numbers in a specific range
+// @see https://stackoverflow.com/a/1527820/2124254
+function getRandomInt(min, max) {
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+// game loop
+function loop() {
+  requestAnimationFrame(loop);
+
+  // slow game loop to 15 fps instead of 60 (60/15 = 4)
+  if (++count < 4) {
+    return;
+  }
+
+  count = 0;
+  context.clearRect(0,0,canvas.width,canvas.height);
+
+  // move snake by it's velocity
+  snake.x += snake.dx;
+  snake.y += snake.dy;
+
+  // wrap snake position horizontally on edge of screen
+  if (snake.x < 0) {
+    snake.x = canvas.width - grid;
+  }
+  else if (snake.x >= canvas.width) {
+    snake.x = 0;
+  }
+  
+  // wrap snake position vertically on edge of screen
+  if (snake.y < 0) {
+    snake.y = canvas.height - grid;
+  }
+  else if (snake.y >= canvas.height) {
+    snake.y = 0;
+  }
+
+  // keep track of where snake has been. front of the array is always the head
+  snake.cells.unshift({x: snake.x, y: snake.y});
+
+  // remove cells as we move away from them
+  if (snake.cells.length > snake.maxCells) {
+    snake.cells.pop();
+  }
+
+  // draw apple
+  context.fillStyle = 'red';
+  context.fillRect(apple.x, apple.y, grid-1, grid-1);
+
+  // draw snake one cell at a time
+  context.fillStyle = 'green';
+  snake.cells.forEach(function(cell, index) {
+    
+    // drawing 1 px smaller than the grid creates a grid effect in the snake body so you can see how long it is
+    context.fillRect(cell.x, cell.y, grid-1, grid-1);  
+
+    // snake ate apple
+    if (cell.x === apple.x && cell.y === apple.y) {
+      snake.maxCells++;
+
+      // canvas is 400x400 which is 25x25 grids 
+      apple.x = getRandomInt(0, 25) * grid;
+      apple.y = getRandomInt(0, 25) * grid;
+    }
+
+    // check collision with all cells after this one (modified bubble sort)
+    for (var i = index + 1; i < snake.cells.length; i++) {
+      
+      // snake occupies same space as a body part. reset game
+      if (cell.x === snake.cells[i].x && cell.y === snake.cells[i].y) {
+        snake.x = 160;
+        snake.y = 160;
+        snake.cells = [];
+        snake.maxCells = 4;
+        snake.dx = grid;
+        snake.dy = 0;
+
+        apple.x = getRandomInt(0, 25) * grid;
+        apple.y = getRandomInt(0, 25) * grid;
+      }
+    }
+  });
+}
+
+// listen to keyboard events to move the snake
+document.addEventListener('keydown', function(e) {
+  // prevent snake from backtracking on itself by checking that it's 
+  // not already moving on the same axis (pressing left while moving
+  // left won't do anything, and pressing right while moving left
+  // shouldn't let you collide with your own body)
+  
+  // left arrow key
+  if (e.which === 37 && snake.dx === 0) {
+    snake.dx = -grid;
+    snake.dy = 0;
+  }
+  // up arrow key
+  else if (e.which === 38 && snake.dy === 0) {
+    snake.dy = -grid;
+    snake.dx = 0;
+  }
+  // right arrow key
+  else if (e.which === 39 && snake.dx === 0) {
+    snake.dx = grid;
+    snake.dy = 0;
+  }
+  // down arrow key
+  else if (e.which === 40 && snake.dy === 0) {
+    snake.dy = grid;
+    snake.dx = 0;
+  }
+});
+
+// start the game
+requestAnimationFrame(loop);
+</script>
+</body>
+</html>
