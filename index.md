@@ -16,4 +16,3 @@
 <li><a href="https://thingy937.github.io/Snake-game-/">Literally just a terrible version of snake...</a></li>
 <li><a href="https://thingy937.github.io/Ping-pong/">Literally just ping pong...</a></li>
 <p style="text-align: center;">&nbsp;</p>
-https://thingy937.github.io/Ping-pong/
