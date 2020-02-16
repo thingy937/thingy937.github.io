@@ -7,8 +7,7 @@
 <p style="text-align: center;">Here you will find some useful guides for hacking games.</p>
 <ul>
 <li><a href="https://thingy937.github.io/Hacking-the-dino-game/">Hacking the dino game.</a></li>
-<li>Terraria (soon to come)</li>
-<li>Cool math games (also soon to come)</li>
+<li>Cool math games (soon to come)</li>
 </ul>
 <p style="text-align: center;">&nbsp;</p>
 <h2 style="text-align: center;"><span style="text-decoration: underline; color: #993300;"><strong>Games</strong></span></h2>
