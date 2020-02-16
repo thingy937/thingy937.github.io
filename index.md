@@ -15,5 +15,3 @@
 <li><a href="https://thingy937.github.io/Snake-game-/">Literally just a terrible version of snake...</a></li>
 <li><a href="https://thingy937.github.io/Ping-pong/">Literally just ping pong...</a></li>
 <p style="text-align: center;">&nbsp;</p>
-
-<iframe id="html5game" src="https://www.coolmathgames.com/0-run-3/play" class="square" width="800px" height="600px" scrolling="no" marginwidth="0" vspace="0" frameborder="0" hspace="0" marginheight="0"></iframe>
