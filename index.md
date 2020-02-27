@@ -14,4 +14,5 @@
 <p style="text-align: center;"><span style="color: #000000;">Well there is more to come but for now, here are two games:</span></p>
 <li><a href="https://thingy937.github.io/Snake-game-/">Literally just a terrible version of snake...</a></li>
 <li><a href="https://thingy937.github.io/Ping-pong/">Literally just ping pong...</a></li>
+,li><a href="https://thingy937.github.io/Gun-game/">Literally just a terrible gun game...</a></li>
 <p style="text-align: center;">&nbsp;</p>
