@@ -11,7 +11,7 @@
 </ul>
 <p style="text-align: center;">&nbsp;</p>
 <h2 style="text-align: center;"><span style="text-decoration: underline; color: #993300;"><strong>Games</strong></span></h2>
-<p style="text-align: center;"><span style="color: #000000;">Well there is more to come but for now, here are two games:</span></p>
+<p style="text-align: center;"><span style="color: #000000;">Well there is more to come but for now, here are a few games:</span></p>
 <li><a href="https://thingy937.github.io/Snake-game-/">Literally just a terrible version of snake...</a></li>
 <li><a href="https://thingy937.github.io/Ping-pong/">Literally just ping pong...</a></li>
 <li><a href="https://thingy937.github.io/Gun-game/">Literally just a terrible gun game...</a></li>
